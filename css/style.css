@@ -136,7 +136,7 @@ h1 {
 .gallery{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(6, 35vh);
+    grid-template-rows: repeat(6, 30vh);
     grid-gap: 1.5 rem;
   
 }
