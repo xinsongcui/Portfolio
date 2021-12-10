@@ -131,7 +131,7 @@ nav ul li a {
     display: flex;
     align-items: center;
     justify-content: center;
-
+	opacity: 0.80;
 	min-height: 500px;
 
   	/* Create the parallax scrolling effect */
