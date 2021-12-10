@@ -176,15 +176,6 @@ nav ul li a {
 	mix-blend-mode: color-burn;
 }
 
-.fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
-}
-
 .flip-card {
 	background-color: transparent;
 	width: 200px;
@@ -451,6 +442,19 @@ nav ul li a {
 
 #contact .contact-item:hover {
 	box-shadow: 0px 0px 5px 0 #0000002c;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+.fa-home {
+	width: 90px;
 }
 
 #contact .icon {
